@@ -1,7 +1,7 @@
 # QuickMark
 
 ## Project Overview
-An OMR Software is designed to automate the correction of bubble sheet exams for educational organizations. With a focus on efficiency, it significantly reduces the time and effort required for the correction process, empowers professors and teachers to allocate more time for more important tasks.
+A Software is designed to automate the correction of bubble sheet exams for educational organizations. With a focus on efficiency, it significantly reduces the time and effort required for the correction process, empowers professors and teachers to allocate more time for more important tasks.
 
 ## Technologies Used
 - **Core Language:** Python
