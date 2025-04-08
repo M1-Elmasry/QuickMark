@@ -6,7 +6,7 @@ A Software is designed to automate the correction of bubble sheet exams for educ
 ## Technologies Used
 - **Core Language:** Python
 - **Image Processing Libraries:** OpenCV, NumPy
-- **Backend:** Python Flask
+- **Backend:** FastAPI
 - **Frontend:** HTML, CSS, Vue.js (under development)
 
 ## Key Features
